@@ -1,11 +1,10 @@
 class QueueArrayProg
 
- "..Using Queue Data structure: Array
+ """..Using Queue Data structure: Array
   API's:
         1.Enquue
         2.Dequeue
-        3.IsEmpty queue "
-    
+        3.IsEmpty queue """
 
   def initialize
     @arr=[]
@@ -36,7 +35,3 @@ queue.print_queue
 queue.dequeue
 puts "Elements are dequeue"
 queue.print_queue
-
-
-
-  
