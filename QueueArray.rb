@@ -30,8 +30,8 @@ queue=QueueArrayProg.new
   elem = gets
   queue.enqueue elem
 end
-puts "Elemets are enqueue"
-queue.print_queue
-queue.dequeue
-puts "Elements are dequeue"
-queue.print_queue
+#puts "Elemets are enqueue"
+#queue.print_queue
+#queue.dequeue
+#puts "Elements are dequeue"
+#queue.print_queue
